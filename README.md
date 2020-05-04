@@ -5,7 +5,7 @@
 This project contains programming experiments of the 
 **Praktikum Digitale Übertragung (Digital Communications Labratory)** course (SS19) offered
  by the [Institute for the Digital Communications (idc)](https://www.idc.tf.fau.de/) 
-of the Electrical Engineering Department](https://www.eei.tf.fau.de/) at [University of Erlangen-Nuremberg (FAU)](https://www.fau.de/).
+of the [Electrical Engineering Department](https://www.eei.tf.fau.de/) at [University of Erlangen-Nuremberg (FAU)](https://www.fau.de/).
 
 ## Intorduction
 
