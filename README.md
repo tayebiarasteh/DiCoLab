@@ -2,6 +2,9 @@
 
 ### By Soroosh Tayebi Arasteh
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
 This project contains programming experiments of the 
 **Praktikum Digitale Übertragung (Digital Communications Labratory)** course (SS19) offered
  by the [Institute for the Digital Communications (idc)](https://www.idc.tf.fau.de/) 
