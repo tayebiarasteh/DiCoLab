@@ -1,12 +1,12 @@
 # MATLAB implementation of basic concepts of Digital Communications
 
-### By Soroosh Tayebi Arasteh
+### By [Soroosh Tayebi Arasteh](https://github.com/starasteh)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 This project contains programming experiments of the 
-**Praktikum Digitale Übertragung (Digital Communications Labratory)** course (SS19) offered
+**Praktikum Digitale Übertragung (Digital Communications Labratory)** course (SS 2019) offered
  by the [Institute for the Digital Communications (idc)](https://www.idc.tf.fau.de/) 
 of the [Electrical Engineering Department](https://www.eei.tf.fau.de/) at [University of Erlangen-Nuremberg (FAU)](https://www.fau.de/).
 
