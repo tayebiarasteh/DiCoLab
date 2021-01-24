@@ -1,6 +1,6 @@
 # MATLAB implementation of basic concepts of Digital Communications
 
-### By [Soroosh Tayebi Arasteh](https://github.com/starasteh)
+### By [Soroosh Tayebi Arasteh](https://github.com/starasteh) | سروش طیبی آراسته
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
