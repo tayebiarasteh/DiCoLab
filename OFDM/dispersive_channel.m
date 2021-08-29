@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function [ channel_output ] = dispersive_channel( channel_input )
 %UNTITLED2 Summary of this function goes here

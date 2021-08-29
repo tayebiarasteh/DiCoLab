@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function rf_signal = modulate(ecb_signal, f_c, f_s)
 

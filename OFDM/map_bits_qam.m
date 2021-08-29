@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function [ PAM_symbols ] = map_bits_qam( bitvector, M )
 

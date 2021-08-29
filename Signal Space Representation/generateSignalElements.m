@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function signalElements = generateSignalElements(type, ovs)
 signalElements = zeros(4,ovs);

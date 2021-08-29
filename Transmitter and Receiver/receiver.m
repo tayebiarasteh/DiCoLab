@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function recBits = receiver(recSignal,PAM_type,GrayMappingOn,f_b, f_c, f_s)
 

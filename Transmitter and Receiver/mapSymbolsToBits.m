@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function bitvector= mapSymbolsToBits(PAM_symbols, PAM_type)
 

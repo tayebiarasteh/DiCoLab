@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %% LOOP PARAMETERS
 EbN0_dB_Vector = 0:2:18;
 BER_Vector = zeros(1,length(EbN0_dB_Vector));

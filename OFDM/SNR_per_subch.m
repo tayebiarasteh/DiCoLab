@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function [SNR_i_dB, SNR_i] = SNR_per_subch(EbN0_dB)
 EbN0_lin = 10^(EbN0_dB/10);

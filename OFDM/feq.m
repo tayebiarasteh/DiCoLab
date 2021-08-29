@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function [ PAM_Symbols_eq ] = feq( PAM_Symbols )
 %UNTITLED Summary of this function goes here

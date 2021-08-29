@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function recSignal = awgn_channel(traSignal, EbN0_dB, M, f_s, f_b)
 

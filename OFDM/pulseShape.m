@@ -1,6 +1,6 @@
 %Created on August 2019.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function ecb_signal_filtered = pulseShape(PAM_symbols, f_b, f_s)
 
